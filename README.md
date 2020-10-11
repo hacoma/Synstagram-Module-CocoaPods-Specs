@@ -1,1 +1,1 @@
-# SynstagramModule-CocoaPods-Specs
+# Synstagram-Module-CocoaPods-Specs
